@@ -1,2 +1,2 @@
-# gpt-3
+# GPT-3
 Various GPT-3 experiments
